@@ -1,12 +1,12 @@
-header, footer {background-color: #f9f0df; color: #b1d6c4; font-size: 20px; height: 80px;}
+header, footer {background-color: #f9f0df; color: #1f7a79; font-size: 20px; height: 80px;}
 header {position: fixed; top: 0px; left:0px; right: 0px; display: inline; text-align: center;}
 footer {position: fixed;bottom: 0px; left: 0px;right: 0px; text-align: center;}
 nav li {text-transform: uppercase; list-style: none; display: inline; margin-left: 10px; text-align: center;}
-nav a {color:#ceeffc; text-decoration: none; text-align:center; display: inline}
+nav a {color:#63cef8; text-decoration: none; text-align:center; display: inline}
 nav a:hover{text-decoration: underline; font-size: 28px; transition: 0.5s;}
 body {background-color: #f0c6ce; text-align: justify; font-size: 18px; position: absolute; top: 90px; bottom: 90px; font-family: 'Itim', cursive;}
 main {background-color: #f0c6ce; margin-bottom: 100px;}
-h1 {text-align: center; background-color:#f9f0df; color: #b1d6c4;} 
+h1 {text-align: center; background-color:#f9f0df; color: #1f7a79;} 
 h3,h2 {text-align: justify; color: #1f7a79;}
 b {color: #d269e6; font-size: 18px;}
 i {color: #d269e6; font-size: 18px;}
